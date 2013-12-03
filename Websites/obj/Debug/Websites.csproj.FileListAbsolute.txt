@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2012\Projects\Websites\Websites\bin\Debug\Websites.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Websites\Websites\obj\Debug\Websites.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\Websites\Websites\bin\Debug\Websites.exe
+c:\users\student\documents\visual studio 2012\Projects\Websites\Websites\bin\Debug\Websites.pdb
+c:\users\student\documents\visual studio 2012\Projects\Websites\Websites\obj\Debug\Websites.exe
+c:\users\student\documents\visual studio 2012\Projects\Websites\Websites\obj\Debug\Websites.pdb
